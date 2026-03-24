@@ -1,2 +1,2 @@
 # Job-Application Website
-- uses Prisma and Postgresql
+- uses Prisma( Version 6 ) and Postgresql
