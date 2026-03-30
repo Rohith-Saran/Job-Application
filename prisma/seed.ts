@@ -8,8 +8,8 @@ const prisma = new PrismaClient();
 async function seed() {
     await prisma.user.createMany({
         data: [
-            { name: "Alice", email: "alice@example.com"},
-            { name: "Bob",email: "bob@example.com"},
+            { name: "ceraline", email: "ceraline@example.com"},
+            { name: "nobody",email: "nobody@example.com"},
         ],
         skipDuplicates: true,
     });
@@ -21,5 +21,8 @@ async function seed() {
 seed().then(() => {
     prisma.$disconnect();
 });
+
+// TO RUN -> npx pisma db seed 
+
 // In this example, we are creating two users in the database with their name and email.
 //  You can modify the data and the model according to your schema.
