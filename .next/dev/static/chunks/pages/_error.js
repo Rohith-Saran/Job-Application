@@ -1,0 +1,12 @@
+__turbopack_load_page_chunks__("/_error", [
+  "static/chunks/0siu_next_dist_compiled_0l04vga._.js",
+  "static/chunks/0siu_next_dist_shared_lib_0worupl._.js",
+  "static/chunks/0siu_next_dist_client_0c.bkbl._.js",
+  "static/chunks/0siu_next_dist_0l_c~9p._.js",
+  "static/chunks/[next]_entry_page-loader_ts_0pcisow._.js",
+  "static/chunks/0siu_react-dom_0q38g8u._.js",
+  "static/chunks/0siu_0v1vm42._.js",
+  "static/chunks/[root-of-the-server]__0dds60r._.js",
+  "static/chunks/Desktop_Job-Application_pages__error_07xvfw~._.js",
+  "static/chunks/turbopack-Desktop_Job-Application_pages__error_13pnu6z._.js"
+])

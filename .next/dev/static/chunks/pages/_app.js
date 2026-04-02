@@ -1,0 +1,13 @@
+__turbopack_load_page_chunks__("/_app", [
+  "static/chunks/0siu_next_dist_compiled_0l04vga._.js",
+  "static/chunks/0siu_next_dist_shared_lib_04tzywy._.js",
+  "static/chunks/0siu_next_dist_client_0c.bkbl._.js",
+  "static/chunks/0siu_next_dist_0av18ek._.js",
+  "static/chunks/0siu_next_app_0pu63a_.js",
+  "static/chunks/[next]_entry_page-loader_ts_0vy4ah3._.js",
+  "static/chunks/0siu_react-dom_0q38g8u._.js",
+  "static/chunks/0siu_0v1vm42._.js",
+  "static/chunks/[root-of-the-server]__0iomaq4._.js",
+  "static/chunks/Desktop_Job-Application_pages__app_07xvfw~._.js",
+  "static/chunks/turbopack-Desktop_Job-Application_pages__app_03xkm~2._.js"
+])

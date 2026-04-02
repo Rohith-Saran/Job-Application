@@ -1,0 +1,50 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/0siu_next_dist_compiled_0l04vga._.js",
+      "static/chunks/0siu_next_dist_shared_lib_04tzywy._.js",
+      "static/chunks/0siu_next_dist_client_0c.bkbl._.js",
+      "static/chunks/0siu_next_dist_0av18ek._.js",
+      "static/chunks/0siu_next_app_0pu63a_.js",
+      "static/chunks/[next]_entry_page-loader_ts_0vy4ah3._.js",
+      "static/chunks/0siu_react-dom_0q38g8u._.js",
+      "static/chunks/0siu_0v1vm42._.js",
+      "static/chunks/[root-of-the-server]__0iomaq4._.js",
+      "static/chunks/Desktop_Job-Application_pages__app_07xvfw~._.js",
+      "static/chunks/turbopack-Desktop_Job-Application_pages__app_03xkm~2._.js"
+    ],
+    "/_error": [
+      "static/chunks/0siu_next_dist_compiled_0l04vga._.js",
+      "static/chunks/0siu_next_dist_shared_lib_0worupl._.js",
+      "static/chunks/0siu_next_dist_client_0c.bkbl._.js",
+      "static/chunks/0siu_next_dist_0l_c~9p._.js",
+      "static/chunks/[next]_entry_page-loader_ts_0pcisow._.js",
+      "static/chunks/0siu_react-dom_0q38g8u._.js",
+      "static/chunks/0siu_0v1vm42._.js",
+      "static/chunks/[root-of-the-server]__0dds60r._.js",
+      "static/chunks/Desktop_Job-Application_pages__error_07xvfw~._.js",
+      "static/chunks/turbopack-Desktop_Job-Application_pages__error_13pnu6z._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0siu_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js",
+    "static/development/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_0prr43.._.js",
+    "static/chunks/0siu_next_dist_compiled_next-devtools_index_1211fpw.js",
+    "static/chunks/0siu_next_dist_compiled_react-dom_04jv0uq._.js",
+    "static/chunks/0siu_next_dist_compiled_react-server-dom-turbopack_0cmvn62._.js",
+    "static/chunks/0siu_next_dist_compiled_0kt7xz6._.js",
+    "static/chunks/0siu_next_dist_client_13o69kk._.js",
+    "static/chunks/0siu_next_dist_0mfdot.._.js",
+    "static/chunks/0siu_@swc_helpers_cjs_0r8jeuc._.js",
+    "static/chunks/Desktop_Job-Application_0rqeker._.js",
+    "static/chunks/turbopack-Desktop_Job-Application_12ku90~._.js"
+  ]
+};
